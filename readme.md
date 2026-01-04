@@ -1,4 +1,4 @@
-# 🛡️ Artifact Zero bot
+# 🛡️ Argus
 
 A comprehensive Python-based Telegram bot designed for remote system administration, security monitoring, and "Red Team" auditing on Windows machines. This tool allows you to monitor hardware status, control system power, audit security logs, and manage files remotely via a secure Telegram interface.
 
