@@ -24,8 +24,8 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 # --- CONFIGURATION (⚠️ PASTE YOUR TOKEN & ID HERE) ---
-BOT_TOKEN = '7985340242:AAEXJuMZG09HtQO3KX1DBo9ARMUDJgAk4sM'
-ALLOWED_USER_ID = 1158775832
+BOT_TOKEN = ' '
+ALLOWED_USER_ID = 000000
 
 # --- GLOBAL VARIABLES ---
 current_dir = os.getcwd()
